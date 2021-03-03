@@ -1,1 +1,2 @@
-# Shirube
+# Initial page
+
