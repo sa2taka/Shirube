@@ -6,3 +6,5 @@
     * [検索結果を信用しない](0_summary/before-study/untrust-searching.md)
     * [やる・考える・感じる・知る](0_summary/before-study/do-think-feel-know.md)
     * [メタファー(という闇の魔術)](0_summary/before-study/metaphor.md)
+  * [プログラミングとは](0_summary/about_programming.md)
+  * [本書の表記](0_summary/notation.md)
