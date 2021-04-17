@@ -1,0 +1,17 @@
+{
+  "name": "Shirube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Shirube/Shirube.git",
+  "author": "sa2taka <sa2taka@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "yarn textlint",
+    "lint:fix": "yarn textlint --fix"
+  },
+  "devDependencies": {
+    "textlint": "^11.9.0",
+    "textlint-rule-preset-japanese": "^5.0.0",
+    "textlint-rule-preset-jtf-style": "^2.3.8"
+  }
+}
